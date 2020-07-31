@@ -11,7 +11,9 @@ Another thing worth noting is the leaderboard implementation with a Bubble Sort 
 prompted to enter his username, his score and username are added to a highscore list, then sorted to keep only Top 5 highscores and
 written to a text file for storage.
 
+For demonstration purposes the number of levels was kept at 4 to demonstrate the increasing difficulty where obstacles increase in number and speed with each level. The level time was also kept to a minimum (10s) for demonstration purposes.
 
+The obstacles all move in a different pattern, and Narwhal obstacle moves towards the player.
 
 To run the game, please download Processing for your machine from: "https://processing.org/download/" and 
 run the Submarinez.pde file.
