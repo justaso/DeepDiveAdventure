@@ -17,3 +17,8 @@ The obstacles all move in a different pattern, and Narwhal obstacle moves toward
 
 To run the game, please download Processing for your machine from: "https://processing.org/download/" and 
 run the Submarinez.pde file.
+
+
+Video demonstration (gameplay is a little laggy towards the end due to video recording software using a lot of computer resources):
+
+[![](http://img.youtube.com/vi/lR9FZy9VgGQ/0.jpg)](http://www.youtube.com/watch?v=lR9FZy9VgGQ "")
