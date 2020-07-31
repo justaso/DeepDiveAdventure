@@ -1,0 +1,6 @@
+Justas: 720
+JJJ: 460
+NNN: 400
+CCC: 340
+JJJ: 340
+JJJ: 340
